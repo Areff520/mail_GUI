@@ -2,19 +2,19 @@
 
 Create mail blurbs with choosen blurb option and ticket ID. Ticket id is to find the correct vendor mail adress that is corresponding with the ticket's asin (product).
 
-## Choose blurb
+#### Choose blurb
 
 <img src="images/1.png" width="400">
 
-## Enter Ticket ID
+#### Enter Ticket ID
 
 <img src="images/2.png" width="400">
 
-## Automation opens a webdriver via Selenium framework collects neccesarry info from ticket, amazon web page, other amazon tools
+#### Automation opens a webdriver via Selenium framework to collect neccesarry info from the ticket, amazon web page, other amazon tools
 
 <img src="images/3.png" width="400">
 
-## Blurb is ready click copy to have sections in your copy board, click another to go back to first step
+#### Blurb is ready. Click copy to have sections in your copy board, click another to go back to first step
 
 <img src="images/4.png" width="400">
 
