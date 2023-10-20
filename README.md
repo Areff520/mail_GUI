@@ -4,17 +4,17 @@ Create mail blurbs with choosen blurb option and ticket ID. Ticket id is to find
 
 ## Choose blurb
 
-![Screenshot](1.png)
+![Screenshot](images/1.png)
 
 ## Enter Ticket ID
 
-![Screenshot](2.png)
+![Screenshot](images/2.png)
 
 ## Automation opens a webdriver via Selenium framework collects neccesarry info from ticket, amazon web page, other amazon tools
 
-![Screenshot](3.png)
+![Screenshot](images/3.png)
 
 ## Blurb is ready click copy to copy the section, choose another to go back to first step
 
-![Screenshot](4.png)
+![Screenshot](images/4.png)
 
