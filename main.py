@@ -288,7 +288,7 @@ class ResultScreen(QDialog):
         global vendorID
 
         super(ResultScreen, self).__init__()
-        loadUi("sayfa3.ui", self)
+        loadUi("page3.ui", self)
 
         self.info = Text_mail.replace('ASIN', ASIN).replace('EAN', EAN).replace('title', title).replace('XXX',vendorID)
         subject = (f'Amazon.com.tr Ürün Teyidi ASIN: {ASIN}')
