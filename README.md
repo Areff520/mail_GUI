@@ -4,7 +4,7 @@ Create mail blurbs with choosen blurb option and ticket ID. Ticket id is to find
 
 ## Choose blurb
 
-![Screenshot](images/1.png)
+<img src="images/1.png" width="400">
 
 ## Enter Ticket ID
 
