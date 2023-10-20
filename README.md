@@ -14,7 +14,7 @@ Create mail blurbs with choosen blurb option and ticket ID. Ticket id is to find
 
 ![Screenshot](images/3.png)
 
-## Blurb is ready click copy to copy the section, choose another to go back to first step
+## Blurb is ready click copy to have sections in your copy board, click another to go back to first step
 
 ![Screenshot](images/4.png)
 
