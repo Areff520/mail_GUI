@@ -1,4 +1,4 @@
-"# mail_GUI" 
+# mail_GUI 
 
 Create mail blurbs with choosen blurb option and ticket ID. Ticket id is to find the correct vendor mail adress that is corresponding with the ticket's asin (product).
 
