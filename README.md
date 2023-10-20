@@ -10,7 +10,7 @@ Create mail blurbs with choosen blurb option and ticket ID. Ticket id is to find
 
 <img src="images/2.png" width="400">
 
-#### Automation opens a webdriver via Selenium framework to collect neccesarry info from the ticket, amazon web page, other amazon tools
+#### Automation opens a webdriver via Selenium framework to collect necessary info from the ticket, amazon web page, other amazon tools
 
 <img src="images/3.png" width="400">
 
